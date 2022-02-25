@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "82c17b68b9057a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "41128ed98fdf0b10",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "个人学期规划 大二下.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb2aaf791e60eba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "70eabf8a47796f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c70ce99ec0fa2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4cf082a7366fee57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d15e546cc1430e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "42870a669bbf3521",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4150dd7664ff36d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人学期规划 大二下.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5df81ad2e7bfe47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41128ed98fdf0b10",
+  "lastOpenFiles": [
+    "个人学期规划 大二下.md"
+  ]
+}
